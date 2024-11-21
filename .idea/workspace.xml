@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f625499-1cea-4c3b-a8c7-9ad7064930ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tictactoe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pencils_game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.dinnerparty.executor": "Run",
+    "Python.pencils_game.executor": "Run",
     "Python.tictactoe.executor": "Run",
     "Python.zoo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
