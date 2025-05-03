@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f625499-1cea-4c3b-a8c7-9ad7064930ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Markdown.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coffeemachine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arithmetic_test.py..py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Markdown.executor": "Run",
+    "Python.arithmetic_test.py..executor": "Run",
     "Python.coffeemachine.executor": "Run",
     "Python.dinnerparty.executor": "Run",
     "Python.pencils_game.executor": "Run",
